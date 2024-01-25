@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movies-now/static/css/main.ae79a5be.css",
+    "main.js": "/movies-now/static/js/main.74433f2c.js",
+    "static/media/no-image-two.png": "/movies-now/static/media/no-image-two.baba1a7394e8054d69cf.png",
+    "index.html": "/movies-now/index.html",
+    "main.ae79a5be.css.map": "/movies-now/static/css/main.ae79a5be.css.map",
+    "main.74433f2c.js.map": "/movies-now/static/js/main.74433f2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae79a5be.css",
+    "static/js/main.74433f2c.js"
+  ]
+}
