@@ -7,7 +7,7 @@ const AllMovies = ({ movieList, PaginatedItems, getMovie }) => {
     <React.Fragment>
       <ul className="homepage-movies">
         {movieList.map((movie) => (
-          <motion.div whileHover={{ scale: 1.1 }} key={movie.id}>
+          <motion.div whileHover={{ scale: 1.1 }}  transition={{ duration: 0.9, ease: "easeInOut" }} key={movie.id}>
             <li className="homepage-movie">
               <Link
                 onClick={() => { getMovie(movie.id); }}
